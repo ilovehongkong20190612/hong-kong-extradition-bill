@@ -2,15 +2,15 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: Hong Kong Extradition Bill
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://ilovehongkong20190612.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/duo/"
+baseurl: "/hong-kong-extradition-bill/"
 
 # Twitter IDs
 twitter:
